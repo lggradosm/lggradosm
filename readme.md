@@ -3,6 +3,8 @@
 
 Soy Gabriel Grados soy desarrollador full stack.
 
+👨‍💻 Portafolio en proceso ...
+
 ## Frontend
 
 ### Prácticas Tecsup
@@ -14,7 +16,7 @@ Soy Gabriel Grados soy desarrollador full stack.
 ### Independiente
 
 1. Página Notaría Guerra Salas [[ver aquí]](https://github.com/lggradosm/guerra-salas-app)
-2. Rafo Alfaro Dashboard [[ver aquí]](https://github.com/lggradosm/guerra-salas-app](https://github.com/lggradosm/rafoalfaro-app)
+2. Rafo Alfaro Dashboard [[ver aquí]](https://github.com/lggradosm/rafoalfaro-app)
 
 ## Backend
 
