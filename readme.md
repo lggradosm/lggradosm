@@ -10,3 +10,5 @@ Soy Gabriel Grados soy desarrollador full stack.
 3. Quiz game  [[ver aquí]](https://github.com/lggradosm/reto-2-grupo-6).
  
 ## Independiente
+
+1. Página Notaría Guerra Salas [[ver aquí]](https://github.com/lggradosm/guerra-salas-app).
