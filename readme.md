@@ -5,7 +5,7 @@ Soy Gabriel Grados soy desarrollador full stack.
 
 ## Frontend
 
-### Tecsup
+### Prácticas Tecsup
 
 1. Carrito de compras [[ver aquí]](https://github.com/lggradosm/reto-4-grupo-6)
 2. Cineplanet clone [[ver aquí]](https://github.com/lggradosm/reto-3-grupo-6)
