@@ -1,7 +1,13 @@
 
 # Hola 👋
 
-Soy Gabriel Grados soy desarrollador full stack.
+Soy Gabriel Grados soy desarrollador full stack: 
+- Java
+- Angular
+- Reactjs
+- Mongodb
+- mysql
+- taildwindcss
 
 👨‍💻 Portafolio en proceso ...
 
