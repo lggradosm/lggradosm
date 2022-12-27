@@ -17,4 +17,4 @@ Soy Gabriel Grados soy desarrollador full stack.
 
 ## Backend
 
-1. Server Rafo Alfaro [[ver aquí]](https://github.com/lggradosm/guerra-salas-app](https://github.com/lggradosm/rafoalfaro-server)
+1. Server Rafo Alfaro [[ver aquí]](https://github.com/lggradosm/rafoalfaro-server)
